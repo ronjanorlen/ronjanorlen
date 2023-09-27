@@ -1,3 +1,7 @@
+## Hejsan!
+
+Jag heter Ronja Norlén och studerar just nu webbutveckling på distans via Mittuniversitetet i Sundsvall.  
+
 ### Hi there 👋
 
 <!--
