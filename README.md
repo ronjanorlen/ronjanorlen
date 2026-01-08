@@ -1,3 +1,6 @@
-## Hello!
+## 👋 Hi, I'm Ronja! 
 
-My name is Ronja and I live in Åre, Sweden. I recently graduated from Mid Sweden University as a fullstack developer.  
+I'm a fullstack developer living in northern Sweden.  
+I fell in love with coding because it is the perfect combination of problem solving and creativity. 
+
+Projects here are experiments, learning tools, and the occasional "why did I do it this was?" moment.
